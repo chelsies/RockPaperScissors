@@ -1,7 +1,7 @@
 import java.util.Random;
 import java.util.Scanner;
 
-public class Assignment3 {
+public class StenSaxPåse {
     public static void main(String[] args) {
         a();
     }
